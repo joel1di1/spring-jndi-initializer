@@ -4,7 +4,7 @@
 	<groupId>com.github.joel1di1</groupId>
 	<artifactId>spring-jndi-initializer</artifactId>
 	<name>Spring Jndi Initializer</name>
-	<version>1.0.1</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<description>Utility classes that bind Object in local JNDI tree using Sping (usually for testing purpose)</description>
 	<url>http://maven.apache.org</url>
